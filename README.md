@@ -1,7 +1,16 @@
-#Please use Java 11 or above as JDK
+# Java Console Application
 
-##Add src as source folder.
-##Add test as test folder 
-##Add lib as resource folder in your IDE if you want to run the JUnit.
+## Requirements
+- **Java 11 or higher**
 
-I am working on these codes during office/home timings, thus I had to avoid using git cli to update codes as I would have to signin to githuh on my work PC and I did not want to do that.
+## Project Structure
+To set up the project correctly in your IDE (e.g., IntelliJ IDEA):
+
+- Mark the following directories appropriately:
+  - `src` → **Sources Root**
+  - `test` → **Test Sources Root**
+  - `lib` → **Resources Root** (only needed if you're running JUnit tests)
+
+## Notes
+I work on this project across both office and home environments.  
+To avoid signing into GitHub on my work PC, I have opted not to use Git CLI for updates. Thus, you only see raw upload commits on my actual repo -- https://github.com/deepakdmk/BankSystem
